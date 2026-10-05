@@ -1,0 +1,71 @@
+student_id,full_name,gender,region,course,age,score_math,score_programming,score_networking,attendance_percent,registration_date,phone
+S032,Amina Massawe,Female,Dodoma,Computer Science,24.0,62.0,86.0,57.0,77.0,2023-04-02,255624063279
+S037,Mariam Nyerere,Male,Mwanza,Networking,30.0,22.0,52.0,24.0,45.0,2023-01-24,255679019441
+S017,Upendo Massawe,Male,Mbeya,Computer Science,30.0,87.0,58.0,31.0,89.0,2023-05-17,255732420002
+S046,Amina Mtui,Male,Dodoma,Networking,18.0,78.0,28.0,84.0,79.0,2023-02-22,255673600201
+S009,Mariam Massawe,Male,Morogoro,Computer Science,25.0,27.0,47.0,56.0,53.0,2023-08-12,255762472380
+S007,Juma Mtui,Male,Morogoro,Networking,23.0,64.0,96.0,83.0,82.0,2023-03-08,255646230636
+S051,Unknown,Male,Morogoro,Computer Science,20.0,87.0,53.0,66.0,53.0,2023-10-27,255725123326
+S049,Fatuma Mtui,Male,Mbeya,Business IT,28.0,82.0,57.0,62.5,63.0,2023-08-15,255725905184
+S026,Amina Msuya,Male,Arusha,Software Engineering,27.0,35.0,63.0,27.0,65.0,2023-11-17,255724241764
+S070,Zawadi Kileo,Male,Arusha,Computer Science,27.0,38.0,73.0,26.0,90.0,2023-06-01,255770349922
+S054,Peter Mrema,Female,Dar es Salaam,Software Engineering,24.0,95.0,29.0,66.0,72.0,2023-05-28,255647666555
+S013,Omary Kileo,Female,Dodoma,Software Engineering,19.0,81.0,71.0,27.0,57.0,2023-07-02,255731783965
+S014,Baraka Massawe,Male,Dar es Salaam,Computer Science,22.5,39.0,88.0,32.0,68.0,2023-10-01,255637910936
+S024,Fatuma Mushi,Female,Morogoro,Business IT,30.0,95.0,61.0,53.0,79.0,2023-07-27,255618174466
+S033,Neema Mrema,Female,Dar es Salaam,Business IT,22.0,36.0,74.0,53.0,70.0,2023-03-18,255753895707
+S062,Mariam Kileo,Female,Dar es Salaam,Business IT,18.0,74.0,80.0,95.0,76.0,2023-01-03,255780848359
+S028,Unknown,Male,Mbeya,Networking,25.0,55.0,88.0,81.0,77.0,2023-04-23,255785096671
+S005,Omary Kileo,Female,Dodoma,Software Engineering,22.5,58.0,51.0,43.0,89.0,2023-03-04,255780490681
+S012,Amina Msuya,Female,Morogoro,Networking,27.0,92.0,60.0,36.0,89.0,2023-09-20,255671289682
+S068,Salim Mtui,Female,Arusha,Computer Science,30.0,57.0,84.0,62.5,58.0,2023-07-08,255736029282
+S056,Amina Mtui,Female,Morogoro,Business IT,29.0,55.0,26.0,72.0,76.5,2023-10-25,255696502078
+S058,Emmanuel Mrema,Female,Morogoro,Software Engineering,19.0,41.0,40.0,29.0,58.0,2023-09-26,255783871631
+S053,Ally Massawe,Female,Mwanza,Computer Science,23.0,20.0,61.0,63.0,98.0,2023-04-07,255611573248
+S036,Upendo Lema,Male,Dar es Salaam,Business IT,22.0,26.0,43.0,45.0,64.0,2023-10-11,255648917884
+S035,Kelvin Mushi,Male,Mwanza,Computer Science,22.5,21.0,63.0,90.0,71.0,2023-05-20,255615798969
+S064,Omary Mwakyusa,Male,Arusha,Business IT,27.0,24.0,58.0,36.0,85.0,2023-05-17,255725050194
+S044,Daniel Msuya,Female,Mbeya,Business IT,18.0,85.0,74.0,84.0,53.0,2023-09-25,255688391409
+S050,Omary Mushi,Female,Dar es Salaam,Software Engineering,18.0,57.0,63.0,29.0,97.0,2023-09-15,255761921906
+S066,Fatuma Massawe,Male,Dodoma,Business IT,26.0,51.0,23.0,72.0,90.0,2023-10-11,255612924253
+S019,Amina Mwakyusa,Female,Dodoma,Networking,21.0,97.0,64.0,77.0,96.0,2023-12-12,255720809644
+S010,Daniel Komba,Male,Dodoma,Software Engineering,26.0,55.0,37.0,75.0,100.0,2023-09-09,255758153450
+S069,Emmanuel Mollel,Male,Mwanza,Networking,19.0,83.0,98.0,62.5,59.0,2023-08-14,255689832995
+S027,Omary Mwakyusa,Male,Arusha,Networking,18.0,32.0,84.0,77.0,80.0,2023-01-25,255669491792
+S029,Grace Mollel,Male,Dodoma,Computer Science,22.5,76.0,60.0,29.0,87.0,2023-04-14,255638546741
+S061,Rehema Mwakyusa,Female,Mwanza,Networking,20.0,84.0,87.0,62.5,50.0,2023-08-05,255763654494
+S067,Grace Mollel,Female,Dar es Salaam,Networking,21.0,55.0,67.0,49.0,76.0,2023-01-23,255766446184
+S031,Hassan Mtui,Male,Arusha,Software Engineering,26.0,71.0,63.0,62.5,57.0,2023-11-06,255659117315
+S065,Baraka Komba,Female,Morogoro,Business IT,24.0,53.0,48.0,96.0,45.0,2023-01-18,255771832849
+S038,Daniel Mushi,Female,Dar es Salaam,Software Engineering,28.0,55.0,89.0,70.0,77.0,2023-05-23,255640811860
+S016,Daniel Mollel,Female,Dar es Salaam,Business IT,22.5,63.0,53.0,81.0,98.0,2023-12-06,255637543491
+S048,Kelvin Mtui,Male,Dar es Salaam,Business IT,23.0,52.0,58.0,92.0,53.0,2023-01-16,255675202710
+S008,Daniel Lema,Male,Dar es Salaam,Networking,28.0,93.0,77.0,56.0,90.0,2023-07-22,255713028344
+S043,Juma Kileo,Male,Mwanza,Networking,22.5,49.0,30.0,62.5,78.0,2023-03-22,255753773065
+S063,Mariam Mollel,Male,Dar es Salaam,Business IT,20.0,39.0,86.0,33.0,97.0,2023-12-23,255721408960
+S034,Neema Mrema,Male,Mbeya,Business IT,22.5,55.0,63.0,22.0,85.0,2023-02-26,255721239731
+S047,Fatuma Komba,Female,Arusha,Business IT,21.0,78.0,83.0,68.0,49.0,2023-08-22,255716274341
+S041,Amina Mrema,Female,Mwanza,Networking,21.0,24.0,59.0,47.0,67.0,2023-01-03,255761221056
+S006,Daniel Massawe,Female,Mwanza,Computer Science,19.0,85.0,73.0,41.0,93.0,2023-05-06,255766599395
+S060,Emmanuel Massawe,Female,Morogoro,Business IT,18.0,72.0,69.0,72.0,92.0,2023-09-07,255746270978
+S052,Salim Mushi,Female,Dodoma,Software Engineering,18.0,40.0,20.0,82.0,88.0,2023-08-13,255728885403
+S002,Neema Kileo,Female,Dar es Salaam,Business IT,19.0,55.0,74.0,27.0,97.0,2023-10-04,255694641177
+S055,Baraka Mwakyusa,Female,Mbeya,Business IT,21.0,54.0,75.0,85.0,65.0,2023-04-25,255767411315
+S003,Happy Mwakyusa,Female,Dar es Salaam,Business IT,18.0,91.0,37.0,57.0,71.0,2023-03-18,255686626738
+S023,Salim Msuya,Male,Dar es Salaam,Computer Science,30.0,33.0,87.0,37.0,72.0,2023-04-27,255613757254
+S059,Emmanuel Mollel,Female,Dodoma,Software Engineering,20.0,90.0,44.0,51.0,50.0,2023-11-03,255652854075
+S018,Salim Mushi,Female,Mbeya,Business IT,27.0,44.0,50.0,71.0,92.0,2023-07-04,255757722796
+S015,Kelvin Kileo,Male,Mbeya,Networking,23.0,97.0,66.0,80.0,52.0,2023-02-28,255772544046
+S040,Juma Komba,Female,Morogoro,Networking,27.0,51.0,57.0,25.0,76.5,2023-03-06,255769837566
+S030,Peter Komba,Male,Mbeya,Networking,22.5,52.0,37.0,79.0,76.5,2023-04-12,255775399034
+S045,Emmanuel Komba,Male,Dar es Salaam,Business IT,28.0,66.0,33.0,68.0,98.0,2023-08-18,255694257475
+S021,Neema Mtui,Male,Dodoma,Business IT,25.0,42.0,63.0,62.0,50.0,2023-12-13,255763873226
+S039,Rehema Mushi,Male,Dodoma,Networking,18.0,36.0,21.0,29.0,85.0,2023-09-12,255731910577
+S011,Joyce Mushi,Male,Dar es Salaam,Business IT,20.0,55.0,49.0,21.0,76.0,2023-06-10,255747840101
+S042,Neema Mollel,Female,Morogoro,Business IT,21.0,84.0,63.0,31.0,61.0,2023-05-02,255788759061
+S020,Emmanuel Komba,Male,Dodoma,Business IT,23.0,46.0,81.0,98.0,98.0,2023-01-16,255796319863
+S022,Neema Lema,Male,Arusha,Business IT,18.0,39.0,63.0,79.0,96.0,2023-05-11,255798217056
+S001,Rehema Msuya,Female,Mbeya,Computer Science,19.0,88.0,32.0,62.5,82.0,2023-01-17,255615032582
+S057,Peter Mollel,Male,Morogoro,Business IT,20.0,80.0,73.0,63.0,63.0,2023-09-05,255764520484
+S004,Peter Nyerere,Male,Dar es Salaam,Business IT,23.0,32.0,90.0,28.0,76.5,2023-01-20,255676627625
+S025,Salim Mollel,Female,Morogoro,Business IT,26.0,39.0,87.0,85.0,46.0,2023-08-25,255691678821
